@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#div0{
+    display: flex;
+}
+#div1{
+    display: flex;
+    background-color: black;
+}
+
+#div2{
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+#img0{
+    height: auto;
+    width: auto;
+}
+
+#img1{
+
+    height: 100px;
+    width: 100px;
+
+}
+#div2_1{
+    display:flex;
+    margin-left: 20px;
+}
+#div2_1_1{
+    margin-right: 40px;
+}
+
+#div2_1_2{
+    margin-right: 60px;
+}
+
+#div2_1_3{
+    margin-right: 10px;
+}
+
+#div2_2{
+    display:block;
+}
+#div2_2_1{
+    text-align: center;
+}
